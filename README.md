@@ -1,4 +1,5 @@
-# parallax-navigation
+parallax-navigation
+===================
 
 TODO: Write a gem description
 
