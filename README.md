@@ -1,7 +1,7 @@
 parallax-navigation
 ===================
 
-TODO: Write a gem description
+We want you to easily and naturally implement awe inspiring transitions in your app.  With code similar to what you're comfortable with in `UINavigationView`, we've wrapped parallax navigation in a small gem.
 
 ## Installation
 
