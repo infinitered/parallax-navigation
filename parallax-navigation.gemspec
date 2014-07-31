@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.name          = "parallax-navigation"
   spec.version       = VERSION
   spec.authors       = ["Gant"]
-  spec.email         = ["GantMan@gmail.com"]
+  spec.email         = ["Gant@infinitered.com"]
   spec.description   = "RubyMotion Parallax Navigation"
   spec.summary       = "We want you to easily and naturally implement awe inspiring transitions in your app. With code similar to what you're comfortable with in UINavigationView, we've wrapped parallax navigation in a small gem."
   spec.homepage      = "https://github.com/infinitered/parallax-navigation"
