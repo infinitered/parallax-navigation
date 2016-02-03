@@ -3,6 +3,8 @@ parallax-navigation
 
 We want you to easily and naturally implement awe inspiring transitions in your app.  With code similar to what you're comfortable with in `UINavigationView`, we've wrapped parallax navigation in a small gem.
 
+Parallax-navigation is maintained by ![Infinite Red](http://infinite.red), a web and mobile development company based in Portland, OR and San Francisco, CA.
+
 ## Installation
 
 Add this line to your application's Gemfile:
